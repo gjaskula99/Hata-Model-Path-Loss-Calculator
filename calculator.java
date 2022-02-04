@@ -52,10 +52,10 @@ public class calculator extends JFrame implements ActionListener
 	public calculator()
 	{
 		//JFrame
-		System.out.println("Seting things up...");
+		System.out.println("Setting things up...");
 		window.setSize(500, 450);
 		window.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-		window.setTitle("Haty Model Loss Calculator");
+		window.setTitle("Hata Model Loss Calculator");
 		window.setLayout(null);
 		window.setResizable(false);
 		
